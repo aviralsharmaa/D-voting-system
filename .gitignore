@@ -1,0 +1,6 @@
+/build
+/server/node_modules
+/test
+/client/src/abi
+/client/public/manifest.json
+/client/public/robots.txt
